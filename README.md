@@ -1,4 +1,8 @@
-# My Learning Portfolio with TriwebAPI 🚀
+<h1 align="center">My Learning Portfolio with TriwebAPI 🚀
+</h1>
+
+
+![Triweb Image](https://raw.githubusercontent.com/haiderBukhari/Triweb-Learn/main/triwebimage/WhatsApp%20Image%202023-08-09%20at%2022.51.22.jpg)
 
 Welcome to my learning journey in web development and related technologies! This repository serves as a showcase of my progress, with detailed explanations and visuals.
 
